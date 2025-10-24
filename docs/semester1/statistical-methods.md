@@ -6,99 +6,42 @@
 
 ---
 
-## 📋 Course Overview
-
-This course provides a comprehensive foundation in statistical methods essential for data analysis and machine learning. You'll learn probability theory, statistical inference, hypothesis testing, and how to apply these concepts to real-world data problems.
-
-## 🎯 Learning Objectives
-
-By the end of this course, you will be able to:
-
-- ✅ Understand probability theory and random variables
-- ✅ Perform statistical inference and estimation
-- ✅ Conduct hypothesis testing
-- ✅ Apply regression and correlation analysis
-- ✅ Use statistical methods for data analysis
-- ✅ Interpret statistical results correctly
-
----
-
-## 📚 Course Content
+## � Course Syllabus
 
 ### Module 1: Probability Theory
 
-#### 1.1 Fundamentals of Probability
-- Sample space and events
-- Probability axioms
-- Conditional probability
-- Bayes' theorem
-- Independence
-
-!!! note "Bayes' Theorem"
-    $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
-    
-    This fundamental theorem is crucial for Bayesian inference and many ML algorithms.
-
-```python
-# Example: Bayesian inference
-def bayes_theorem(p_b_given_a, p_a, p_b):
-    """
-    Calculate P(A|B) using Bayes' theorem
-    """
-    return (p_b_given_a * p_a) / p_b
-
-# Medical test example
-p_disease = 0.01  # Prior probability of disease
-p_positive_given_disease = 0.99  # Sensitivity
-p_positive = 0.05  # Probability of testing positive
-
-p_disease_given_positive = bayes_theorem(
-    p_positive_given_disease, 
-    p_disease, 
-    p_positive
-)
-
-print(f"Probability of disease given positive test: {p_disease_given_positive:.4f}")
-```
-
-#### 1.2 Random Variables
-- Discrete random variables
-- Continuous random variables
-- Probability mass functions (PMF)
-- Probability density functions (PDF)
-- Cumulative distribution functions (CDF)
-
-#### 1.3 Expectation and Variance
-- Expected value
-- Variance and standard deviation
-- Covariance and correlation
-- Law of large numbers
-- Central limit theorem
-
-**Key Formulas**:
-
-- Expected Value: $E[X] = \sum_{x} x \cdot P(X=x)$ (discrete) or $E[X] = \int_{-\infty}^{\infty} x \cdot f(x) dx$ (continuous)
-- Variance: $\text{Var}(X) = E[(X - E[X])^2] = E[X^2] - (E[X])^2$
-- Covariance: $\text{Cov}(X,Y) = E[(X-E[X])(Y-E[Y])]$
+- Fundamentals of Probability
+- Random Variables
+- Expectation and Variance
+- Bayes' Theorem
 
 ### Module 2: Probability Distributions
 
-#### 2.1 Discrete Distributions
-- Bernoulli distribution
-- Binomial distribution
-- Poisson distribution
-- Geometric distribution
+- Discrete Distributions (Bernoulli, Binomial, Poisson)
+- Continuous Distributions (Normal, Exponential, Chi-square)
+- Multivariate Distributions
 
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-from scipy import stats
+### Module 3: Statistical Inference
 
-# Visualizing common distributions
-fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+- Point Estimation (MLE, Method of Moments)
+- Interval Estimation
+- Hypothesis Testing
 
-# Binomial distribution
-n, p = 10, 0.5
+### Module 4: Regression and Correlation
+
+- Correlation Analysis
+- Simple Linear Regression
+- Multiple Linear Regression
+
+### Module 5: Advanced Topics
+
+- ANOVA
+- Non-parametric Methods
+- Chi-Square Tests
+
+---
+
+## 📝 Notes Section
 x_binomial = np.arange(0, n+1)
 pmf_binomial = stats.binom.pmf(x_binomial, n, p)
 axes[0, 0].bar(x_binomial, pmf_binomial)
@@ -376,129 +319,37 @@ else:
 
 ---
 
-## 🛠️ Practical Applications in ML
+## � Notes Section
 
-### Application 1: Feature Selection using Correlation
+### Week 1-2: Probability Theory
+*Add your notes here*
 
-```python
-import pandas as pd
-from sklearn.datasets import load_boston
+### Week 3-4: Statistical Distributions
+*Add your notes here*
 
-# Load data
-data = load_boston()
-df = pd.DataFrame(data.data, columns=data.feature_names)
-df['PRICE'] = data.target
-
-# Calculate correlation with target
-correlations = df.corr()['PRICE'].sort_values(ascending=False)
-print("Feature correlations with target:")
-print(correlations)
-
-# Select highly correlated features
-high_corr_features = correlations[abs(correlations) > 0.5].index
-print(f"\nHighly correlated features: {list(high_corr_features)}")
-```
-
-### Application 2: A/B Testing
-
-```python
-from scipy.stats import ttest_ind
-
-# Example: A/B test for website conversion rates
-group_a = np.random.binomial(1, 0.10, 1000)  # Control group
-group_b = np.random.binomial(1, 0.12, 1000)  # Treatment group
-
-# Calculate conversion rates
-conv_a = np.mean(group_a)
-conv_b = np.mean(group_b)
-
-# Perform t-test
-t_stat, p_value = ttest_ind(group_a, group_b)
-
-print(f"Group A conversion rate: {conv_a:.4f}")
-print(f"Group B conversion rate: {conv_b:.4f}")
-print(f"t-statistic: {t_stat:.4f}")
-print(f"p-value: {p_value:.4f}")
-
-if p_value < 0.05:
-    print("Significant difference detected!")
-else:
-    print("No significant difference.")
-```
-
-### Application 3: Outlier Detection using Statistical Methods
-
-```python
-def detect_outliers_iqr(data):
-    """Detect outliers using IQR method"""
-    Q1 = np.percentile(data, 25)
-    Q3 = np.percentile(data, 75)
-    IQR = Q3 - Q1
-    lower_bound = Q1 - 1.5 * IQR
-    upper_bound = Q3 + 1.5 * IQR
-    return (data < lower_bound) | (data > upper_bound)
-
-def detect_outliers_zscore(data, threshold=3):
-    """Detect outliers using z-score method"""
-    z_scores = np.abs(stats.zscore(data))
-    return z_scores > threshold
-
-# Example
-data = np.concatenate([np.random.normal(100, 15, 1000), [200, 250, -50]])
-outliers_iqr = detect_outliers_iqr(data)
-outliers_zscore = detect_outliers_zscore(data)
-
-print(f"Outliers detected (IQR): {np.sum(outliers_iqr)}")
-print(f"Outliers detected (Z-score): {np.sum(outliers_zscore)}")
-```
+### Week 5-6: Hypothesis Testing and Inference
+*Add your notes here*
 
 ---
 
-## 📖 Key Concepts
+## 📄 Exam Papers
 
-!!! abstract "Essential Concepts"
-    - **p-value**: Probability of obtaining results at least as extreme as observed, assuming H₀ is true
-    - **Confidence Interval**: Range of values likely to contain the true parameter
-    - **Central Limit Theorem**: Distribution of sample means approaches normal as n increases
-    - **Type I Error**: Rejecting H₀ when it's true (false positive)
-    - **Type II Error**: Failing to reject H₀ when it's false (false negative)
+### Previous Year Questions
+*To be added*
 
----
+### Sample Questions
+*To be added*
 
-## 📚 Resources
-
-### Recommended Books
-- *Statistical Inference* by Casella and Berger
-- *Probability and Statistics* by DeGroot and Schervish
-- *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman
-- *Practical Statistics for Data Scientists* by Bruce and Bruce
-
-### Python Libraries
-- **NumPy**: Numerical computing
-- **SciPy**: Scientific computing and statistics
-- **Pandas**: Data manipulation
-- **Statsmodels**: Statistical modeling
-- **Seaborn**: Statistical visualization
-
-### Online Resources
-- [Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [StatQuest YouTube Channel](https://www.youtube.com/c/joshstarmer)
-- [Seeing Theory: Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/)
+### Important Topics for Exam
+- Bayes' Theorem
+- Hypothesis Testing
+- Linear Regression
+- ANOVA
+- Statistical Distributions
 
 ---
 
-## 💡 Important Tips
-
-!!! warning "Common Pitfalls"
-    - Don't confuse correlation with causation
-    - Always check assumptions before applying tests
-    - Consider practical significance, not just statistical significance
-    - Be aware of multiple testing problems
-    - Understand the context of your data
-
----
-
-## 📝 Notes Section
+## 🎓 Assignments and Projects
 
 ### Week 1-2: Probability Theory
 *Add your notes here*

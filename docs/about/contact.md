@@ -10,15 +10,11 @@ I'm always happy to connect with fellow students, researchers, and professionals
 
 ### Social & Professional Networks
 
-<div class="connect-buttons">
-  
 **LinkedIn**: [linkedin.com/in/shivam-kumar2003](https://www.linkedin.com/in/shivam-kumar2003/)  
-Connect with me professionally and stay updated with my journey
+*Connect with me professionally and stay updated with my journey*
 
 **GitHub**: [github.com/shivam2003-dev](https://github.com/shivam2003-dev)  
-Check out my projects, code repositories, and contributions
-
-</div>
+*Check out my projects, code repositories, and contributions*
 
 ---
 

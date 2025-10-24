@@ -25,20 +25,6 @@ Hello! I'm **Shivam Kumar**, currently pursuing my M.Tech in Artificial Intellig
 
 ---
 
-## 📚 About This Knowledge Base
-
-This documentation is a living resource that I'm building throughout my M.Tech program. It includes:
-
-- 📖 **Detailed Notes**: Comprehensive notes on core concepts and topics
-- 💡 **Key Insights**: Important takeaways and learning points
-- 🔬 **Practical Examples**: Code implementations and demonstrations
-- 📊 **Visual Aids**: Diagrams, charts, and illustrations
-- 🎯 **Project Work**: Course projects and assignments
-- 📝 **Research Papers**: Summaries and analyses of relevant papers
-- 🔗 **Resources**: Curated links to helpful materials
-
----
-
 ## 🎓 Program Overview
 
 **Program**: Master of Technology (M.Tech)  
@@ -73,38 +59,6 @@ The first semester focuses on building strong mathematical and theoretical found
 4. **[Machine Learning](semester1/machine-learning.md)**
    - Course Code: S1-25_AIMLCZG565
    - Focus: Supervised/Unsupervised Learning, Model Evaluation, Algorithms
-
----
-
-## 🎯 Learning Objectives
-
-Through this program and this knowledge base, I aim to:
-
-- ✅ Build a strong theoretical foundation in AI and ML
-- ✅ Develop practical skills in implementing ML algorithms
-- ✅ Understand and apply deep learning techniques
-- ✅ Master statistical methods for data analysis
-- ✅ Work on real-world AI/ML projects
-- ✅ Contribute to the AI/ML community through knowledge sharing
-
----
-
-## 🚀 How to Use This Knowledge Base
-
-### Navigation
-
-- Use the **navigation menu** on the left to browse through semesters and subjects
-- Use the **search bar** at the top to find specific topics
-- Click on **subject links** to dive into detailed content
-- Use the **table of contents** on the right to navigate within pages
-
-### Features
-
-- 🌓 **Dark/Light Mode**: Toggle theme using the button in the header
-- 🔍 **Search**: Powerful search functionality to find topics quickly
-- 📱 **Responsive**: Works seamlessly on desktop, tablet, and mobile
-- 📋 **Copy Code**: Easy code copying with syntax highlighting
-- 🔗 **Quick Links**: Jump to sections with automatic table of contents
 
 ---
 

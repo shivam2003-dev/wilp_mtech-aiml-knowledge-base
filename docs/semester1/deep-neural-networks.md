@@ -14,10 +14,10 @@
 
 ## 📖 Recommended Resources
 
-??? info "�‍🏫 Recommended by Professor"
+??? info "👨‍🏫 Recommended by Professor"
     - *To be added later*
 
-??? info "�📚 Books"
+??? info "� Books"
     - *To be added later*
     - Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville
     - Neural Networks and Deep Learning - Michael Nielsen
@@ -37,7 +37,7 @@
 
 ---
 
-##  Notes Section
+## 📝 Notes Section
 
 ### Week 1-2: Neural Network Basics
 *Add your notes here*
@@ -58,12 +58,12 @@
 ### Sample Questions
 *To be added*
 
-### Important Topics for Exam
-- Backpropagation Algorithm
-- Activation Functions
-- CNN Architectures
-- Regularization Techniques
-- Optimization Algorithms
+??? info "⭐ Important Topics for Exam"
+    - Backpropagation Algorithm
+    - Activation Functions
+    - CNN Architectures
+    - Regularization Techniques
+    - Optimization Algorithms
 
 ---
 

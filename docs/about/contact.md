@@ -55,31 +55,32 @@ Grade: 8.17/10
 
 ### 💼 Technical Skills
 
-```
-Cloud Platforms:        AWS (EKS, EC2, S3, VPC, SNS, Lambda, EventBridge, CloudWatch, WAF, Inspector)
-                        Azure, GCP
+??? info "🛠️ View Skills"
+    ```
+    Cloud Platforms:        AWS (EKS, EC2, S3, VPC, SNS, Lambda, EventBridge, CloudWatch, WAF, Inspector)
+                            Azure, GCP
 
-Containers & K8s:       Kubernetes, Docker, Helm, ArgoCD, Production Cluster Management
+    Containers & K8s:       Kubernetes, Docker, Helm, ArgoCD, Production Cluster Management
 
-Infrastructure:         Terraform, Ansible, CloudFormation, Configuration Management
+    Infrastructure:         Terraform, Ansible, CloudFormation, Configuration Management
 
-CI/CD & GitOps:         GitHub Actions, CodePipeline, GitOps Workflows, Automated Deployments
+    CI/CD & GitOps:         GitHub Actions, CodePipeline, GitOps Workflows, Automated Deployments
 
-Monitoring:             Zabbix, Wazuh, PagerDuty, Prometheus, Grafana, HashiCorp Vault, SonarQube
+    Monitoring:             Zabbix, Wazuh, PagerDuty, Prometheus, Grafana, HashiCorp Vault, SonarQube
 
-Databases:              PostgreSQL, MSSQL, Cassandra, Neo4j, pgBackRest, Performance Tuning
+    Databases:              PostgreSQL, MSSQL, Cassandra, Neo4j, pgBackRest, Performance Tuning
 
-Programming:            Python, Bash, PowerShell, Go, C++, JavaScript, YAML
+    Programming:            Python, Bash, PowerShell, Go, C++, JavaScript, YAML
 
-Networking:             VPC, DNS, Calico CNI, MQTT, OpenVPN, TCP/IP, Firewall, Hybrid Infrastructure
+    Networking:             VPC, DNS, Calico CNI, MQTT, OpenVPN, TCP/IP, Firewall, Hybrid Infrastructure
 
-Message Brokers:        EMQX, MQTT Protocol, 3-Node Cluster Configuration
+    Message Brokers:        EMQX, MQTT Protocol, 3-Node Cluster Configuration
 
-Tools & Platforms:      Git, GitHub, Nexus Repository, Linux (Ubuntu, RHEL), Windows Server
+    Tools & Platforms:      Git, GitHub, Nexus Repository, Linux (Ubuntu, RHEL), Windows Server
 
-ML & AI:                PyTorch, Transformers, LLMs, Time Series Analysis, Anomaly Detection
-                        Deep Learning, Neural Networks, Data Science & Statistical Analysis
-```
+    ML & AI:                PyTorch, Transformers, LLMs, Time Series Analysis, Anomaly Detection
+                            Deep Learning, Neural Networks, Data Science & Statistical Analysis
+    ```
 
 ---
 

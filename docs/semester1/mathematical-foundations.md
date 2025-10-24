@@ -50,11 +50,11 @@
 ### Sample Questions
 *To be added*
 
-### Important Topics for Exam
-- Eigenvalues and Eigenvectors
-- Gradient Descent Algorithms
-- Matrix Decompositions
-- Optimization Techniques
+??? info "⭐ Important Topics for Exam"
+    - Eigenvalues and Eigenvectors
+    - Gradient Descent Algorithms
+    - Matrix Decompositions
+    - Optimization Techniques
 
 ---
 

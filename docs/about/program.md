@@ -2,7 +2,7 @@
 
 ## Program Information
 
-**Degree**: Master of Technology (M.Tech)  
+**Degree**: WILP Master of Technology (M.Tech)  
 **Specialization**: Artificial Intelligence and Machine Learning  
 **Duration**: 2 Years (4 Semesters)  
 **Academic Year**: 2025-26

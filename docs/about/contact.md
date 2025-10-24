@@ -110,9 +110,9 @@ Grade: 8.17/10
 
 ---
 
-## � Resume
+## 📄 Resume
 
-📥 **[Download Resume](link-to-your-resume.pdf)** *(To be added)*
+*Resume to be added*
 
 ---
 

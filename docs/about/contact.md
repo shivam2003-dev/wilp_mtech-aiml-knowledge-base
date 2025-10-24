@@ -11,7 +11,7 @@
 
 ### 🎓 Education
 
-**Master's Degree in Artificial Intelligence**  
+**Master's Degree in Artificial Intelligence and Machine Learning**  
 *Birla Institute of Technology and Science, Pilani (BITS Pilani)*  
 October 2025 - October 2027
 

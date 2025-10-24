@@ -12,26 +12,30 @@
 
 ---
 
+
 ## 📖 Recommended Resources
 
-??? info "�‍🏫 Recommended by Professor"
+??? info "👨‍🏫 Recommended by Professor"
     - *To be added later*
 
-??? info "�📚 Books"
+??? info "🌐 Community Recommended"
     - *To be added later*
-    - Pattern Recognition and Machine Learning - Christopher Bishop
-    - Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
-    - The Elements of Statistical Learning - Hastie, Tibshirani, Friedman
+
+??? info "📚 Books"
+    - *To be added later*
+    - [Pattern Recognition and Machine Learning - Christopher Bishop](https://www.springer.com/gp/book/9780387310732)
+    - [Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+    - [The Elements of Statistical Learning - Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ??? info "🎥 Video Lectures"
     - *To be added later*
-    - Andrew Ng's Machine Learning Course (Coursera)
-    - Stanford CS229: Machine Learning
-    - MIT 6.036: Introduction to Machine Learning
+    - [Andrew Ng's Machine Learning Course (Coursera)](https://www.coursera.org/learn/machine-learning)
+    - [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
+    - [MIT 6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
 
 ??? info "📄 Research Papers"
     - *To be added later*
-    - Key papers will be added as course progresses
+    - [Key papers will be added as course progresses](#)
 
 ---
 

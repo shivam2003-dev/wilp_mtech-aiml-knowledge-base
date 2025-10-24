@@ -1,0 +1,132 @@
+site_name: AI & ML Knowledge Base - M.Tech
+site_description: Comprehensive knowledge base for M.Tech in Artificial Intelligence and Machine Learning
+site_author: Shivam Kumar
+site_url: https://shivam2003-dev.github.io/wilp_mtech-aiml-knowledge-base/
+
+# Repository
+repo_name: shivam2003-dev/wilp_mtech-aiml-knowledge-base
+repo_url: https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2024 - 2026 Shivam Kumar
+
+# Theme Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+
+# Extra JavaScript
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Social Links
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/shivam2003-dev
+      name: GitHub Profile
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/shivam-kumar2003/
+      name: LinkedIn Profile
+
+# Navigation
+nav:
+  - Home: index.md
+  - Semester 1:
+      - semester1/index.md
+      - Mathematical Foundations for ML: semester1/mathematical-foundations.md
+      - Deep Neural Networks: semester1/deep-neural-networks.md
+      - Introduction to Statistical Methods: semester1/statistical-methods.md
+      - Machine Learning: semester1/machine-learning.md
+  - About:
+      - Program Details: about/program.md
+      - Contact: about/contact.md

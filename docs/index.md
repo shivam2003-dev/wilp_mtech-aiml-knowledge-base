@@ -1,4 +1,4 @@
-# AI & ML Knowledge Base
+## AI & ML Knowledge Base
 
 **M.Tech in Artificial Intelligence and Machine Learning**  
 **Academic Year**: 2025-26

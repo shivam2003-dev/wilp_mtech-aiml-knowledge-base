@@ -1,4 +1,4 @@
-# M.Tech Program Details
+## M.Tech Program Details
 
 ## Program Information
 

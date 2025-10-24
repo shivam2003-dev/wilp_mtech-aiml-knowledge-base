@@ -1,4 +1,4 @@
-# Introduction to Statistical Methods
+## Introduction to Statistical Methods
 
 **Course Code**: S1-25_AIMLCZC418  
 **Semester**: 1 (2025-26)  
@@ -52,18 +52,6 @@
 
 ### Project: Statistical Analysis of Real-World Dataset
 *Details to be added*
-
----
-
-## 📊 Progress Tracker
-
-- [ ] Module 1: Probability Theory
-- [ ] Module 2: Probability Distributions
-- [ ] Module 3: Statistical Inference
-- [ ] Module 4: Regression and Correlation
-- [ ] Module 5: Advanced Topics
-- [ ] Assignments Completed
-- [ ] Final Project
 
 ---
 

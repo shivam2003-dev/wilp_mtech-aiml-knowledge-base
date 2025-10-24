@@ -1,4 +1,4 @@
-# Deep Neural Networks
+## Deep Neural Networks
 
 **Course Code**: S1-25_AIMLCZG511  
 **Semester**: 1 (2025-26)  
@@ -52,17 +52,6 @@
 
 ### Project: Build and Train a Deep Learning Model
 *Details to be added*
-
----
-
-## 📊 Progress Tracker
-
-- [ ] Module 1: Neural Network Fundamentals
-- [ ] Module 2: Backpropagation and Training
-- [ ] Module 3: Deep Learning Architectures
-- [ ] Module 4: Regularization and Best Practices
-- [ ] Assignments Completed
-- [ ] Final Project
 
 ---
 

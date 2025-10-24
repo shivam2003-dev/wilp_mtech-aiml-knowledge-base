@@ -1,4 +1,4 @@
-# Machine Learning
+## Machine Learning
 
 **Course Code**: S1-25_AIMLCZG565  
 **Semester**: 1 (2025-26)  
@@ -59,20 +59,6 @@
 
 ### Project: End-to-End ML Pipeline
 *Details to be added*
-
----
-
-## 📊 Progress Tracker
-
-- [ ] Module 1: Introduction to ML
-- [ ] Module 2: Supervised Learning - Regression
-- [ ] Module 3: Supervised Learning - Classification
-- [ ] Module 4: Ensemble Methods
-- [ ] Module 5: Unsupervised Learning
-- [ ] Module 6: Model Evaluation
-- [ ] Module 7: Feature Engineering
-- [ ] Assignments Completed
-- [ ] Final Project
 
 ---
 

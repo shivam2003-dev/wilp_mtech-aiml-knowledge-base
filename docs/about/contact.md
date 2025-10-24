@@ -1,6 +1,6 @@
-# Contact Me
+## Contact Me
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 **Name**: Shivam Kumar  
 **Current Role**: M.Tech Student (AI & ML)  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **Master's Degree in Artificial Intelligence**  
 *Birla Institute of Technology and Science, Pilani (BITS Pilani)*  
@@ -22,9 +22,9 @@ Grade: 8.17/10
 
 ---
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-### Site Reliability Engineer II
+#### Site Reliability Engineer II
 **Kimbal** | Delhi, India  
 *June 2025 - Present (5 months)*
 
@@ -33,7 +33,7 @@ Grade: 8.17/10
 - Automated PostgreSQL backups using pgBackRest with Ansible, storing securely in S3
 - Developed AWS Lambda functions triggered by EventBridge to automate tasks and reduce manual work
 
-### Site Reliability Engineer
+#### Site Reliability Engineer
 **Kimbal** | Delhi, India  
 *June 2024 - June 2025 (1 year)*
 
@@ -46,86 +46,59 @@ Grade: 8.17/10
 - Set up EMQX in 3-node production cluster with MQTT communication
 - Automated 50-100+ tasks for system maintenance and cloud provisioning
 - Managed databases: MSSQL, PostgreSQL, Cassandra, Neo4j
-- Led Disaster Recovery strategy with 30+ successful DC-DR drills
 
-### Site Reliability Engineer Intern
+#### Site Reliability Engineer Intern
 **Kimbal** | Delhi, India  
 *January 2024 - June 2024 (6 months)*
 
 ---
 
-## 💼 Technical Skills
+### 💼 Technical Skills
 
-### Cloud Platforms
-- **AWS**: EKS, EC2, S3, VPC, SNS, Lambda, EventBridge, CloudWatch, WAF, Inspector
-- **Azure**, **GCP**
+```
+Cloud Platforms:        AWS (EKS, EC2, S3, VPC, SNS, Lambda, EventBridge, CloudWatch, WAF, Inspector)
+                        Azure, GCP
 
-### Container & Orchestration
-- Kubernetes, Docker, Helm, ArgoCD
-- Production Cluster Management
+Containers & K8s:       Kubernetes, Docker, Helm, ArgoCD, Production Cluster Management
 
-### Infrastructure as Code
-- Terraform, Ansible, CloudFormation
-- Configuration Management
+Infrastructure:         Terraform, Ansible, CloudFormation, Configuration Management
 
-### CI/CD & GitOps
-- GitHub Actions, CodePipeline
-- GitOps Workflows, Automated Deployments
+CI/CD & GitOps:         GitHub Actions, CodePipeline, GitOps Workflows, Automated Deployments
 
-### Monitoring & Security
-- Zabbix, Wazuh, PagerDuty, Prometheus, Grafana
-- HashiCorp Vault, SonarQube
+Monitoring:             Zabbix, Wazuh, PagerDuty, Prometheus, Grafana, HashiCorp Vault, SonarQube
 
-### Databases
-- PostgreSQL, MSSQL, Cassandra, Neo4j
-- pgBackRest, Performance Tuning
+Databases:              PostgreSQL, MSSQL, Cassandra, Neo4j, pgBackRest, Performance Tuning
 
-### Programming Languages
-- Python, Bash, PowerShell, Go
-- C++, JavaScript, YAML
+Programming:            Python, Bash, PowerShell, Go, C++, JavaScript, YAML
 
-### Networking
-- VPC, DNS, Calico CNI, MQTT
-- OpenVPN, TCP/IP, Firewall
-- Hybrid Infrastructure
+Networking:             VPC, DNS, Calico CNI, MQTT, OpenVPN, TCP/IP, Firewall, Hybrid Infrastructure
 
-### Message Brokers
-- EMQX, MQTT Protocol
-- 3-Node Cluster Configuration
+Message Brokers:        EMQX, MQTT Protocol, 3-Node Cluster Configuration
 
-### Tools & Platforms
-- Git, GitHub, Nexus Repository
-- Linux (Ubuntu, RHEL), Windows Server
+Tools & Platforms:      Git, GitHub, Nexus Repository, Linux (Ubuntu, RHEL), Windows Server
 
-### Disaster Recovery
-- DR Strategy, Backup Solutions
-- High Availability
-- 30+ DC-DR Drill Executions
-
-### Machine Learning & AI
-- PyTorch, Transformers, LLMs
-- Time Series Analysis, Anomaly Detection
-- Deep Learning, Neural Networks
-- Data Science & Statistical Analysis
+ML & AI:                PyTorch, Transformers, LLMs, Time Series Analysis, Anomaly Detection
+                        Deep Learning, Neural Networks, Data Science & Statistical Analysis
+```
 
 ---
 
-## 📄 Resume
+### 📄 Resume
 
 *Resume to be added*
 
 ---
 
-## 📞 Get In Touch
+### 📞 Get In Touch
 
-### Connect With Me
+#### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam2003-dev)
 
 ---
 
-## � Contact Form
+### � Contact Form
 
 For any inquiries, collaborations, or opportunities, feel free to reach out:
 
@@ -133,7 +106,7 @@ For any inquiries, collaborations, or opportunities, feel free to reach out:
 **LinkedIn**: [linkedin.com/in/shivam-kumar2003](https://www.linkedin.com/in/shivam-kumar2003/)  
 **GitHub**: [github.com/shivam2003-dev](https://github.com/shivam2003-dev)
 
-### Areas of Interest
+#### Areas of Interest
 - **Artificial Intelligence & Machine Learning**: Deep Learning, LLMs, Transformers, Neural Networks
 - **MLOps & AI Infrastructure**: Deploying and scaling ML models in production
 - **Cloud Engineering**: AWS, Azure, GCP - Infrastructure automation and optimization
@@ -145,7 +118,7 @@ For any inquiries, collaborations, or opportunities, feel free to reach out:
 
 ---
 
-## 🤝 Let's Collaborate
+### 🤝 Let's Collaborate
 
 I'm open to:
 - Research collaborations

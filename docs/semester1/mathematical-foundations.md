@@ -1,4 +1,4 @@
-# Mathematical Foundations for Machine Learning
+## Mathematical Foundations for Machine Learning
 
 **Course Code**: S1-25_AIMLCZC416  
 **Semester**: 1 (2025-26)  
@@ -51,17 +51,6 @@
 
 ### Project: PCA from Scratch
 *Details to be added*
-
----
-
-## 📊 Progress Tracker
-
-- [ ] Module 1: Linear Algebra
-- [ ] Module 2: Multivariable Calculus
-- [ ] Module 3: Optimization Theory
-- [ ] Module 4: Probability Basics
-- [ ] Assignments Completed
-- [ ] Final Project
 
 ---
 

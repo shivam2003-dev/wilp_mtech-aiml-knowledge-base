@@ -6,31 +6,9 @@
 
 ---
 
-## � Course Syllabus
+## 📚 Course Syllabus
 
-### Module 1: Neural Network Fundamentals
-
-- Perceptron and Multilayer Perceptrons
-- Activation Functions (Sigmoid, ReLU, Tanh, etc.)
-- Forward Propagation
-
-### Module 2: Backpropagation and Training
-
-- Loss Functions
-- Backpropagation Algorithm
-- Optimization Algorithms (SGD, Adam, RMSprop)
-
-### Module 3: Deep Learning Architectures
-
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs, LSTM, GRU)
-- Advanced Architectures (Autoencoders, GANs, Transformers)
-
-### Module 4: Regularization and Best Practices
-
-- Regularization Techniques (L1, L2, Dropout, Batch Normalization)
-- Hyperparameter Tuning
-- Training Best Practices
+*Syllabus to be added later*
 
 ---
 

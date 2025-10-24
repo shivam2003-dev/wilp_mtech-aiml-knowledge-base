@@ -6,32 +6,9 @@
 
 ---
 
-## � Course Syllabus
+## 📚 Course Syllabus
 
-### Module 1: Linear Algebra
-
-- Vectors and Vector Spaces
-- Matrices and Matrix Operations
-- Eigenvalues and Eigenvectors
-- Matrix Decompositions (SVD, QR, LU)
-
-### Module 2: Multivariable Calculus
-
-- Partial Derivatives and Gradients
-- Optimization Basics
-- Taylor Series and Approximations
-
-### Module 3: Optimization Theory
-
-- Convex Optimization
-- Gradient Descent Methods
-- Advanced Optimization Algorithms
-
-### Module 4: Probability and Statistics Basics
-
-- Probability Fundamentals
-- Random Variables and Distributions
-- Linear Regression from Mathematical Perspective
+*Syllabus to be added later*
 
 ---
 

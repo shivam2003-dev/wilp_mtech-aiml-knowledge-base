@@ -6,50 +6,11 @@
 
 ---
 
-## � Course Syllabus
+## 📚 Course Syllabus
 
-### Module 1: Introduction to Machine Learning
+*Syllabus to be added later*
 
-- What is Machine Learning
-- Types of ML (Supervised, Unsupervised, Reinforcement Learning)
-- ML Workflow
-
-### Module 2: Supervised Learning - Regression
-
-- Linear Regression
-- Polynomial Regression
-- Regularization (Ridge, Lasso, ElasticNet)
-
-### Module 3: Supervised Learning - Classification
-
-- Logistic Regression
-- Decision Trees
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-
-### Module 4: Ensemble Methods
-
-- Bagging and Random Forest
-- Boosting (AdaBoost, Gradient Boosting, XGBoost)
-- Stacking and Voting
-
-### Module 5: Unsupervised Learning
-
-- Clustering (K-Means, Hierarchical, DBSCAN)
-- Dimensionality Reduction (PCA, t-SNE)
-
-### Module 6: Model Evaluation and Selection
-
-- Performance Metrics
-- Cross-Validation
-- Hyperparameter Tuning
-
-### Module 7: Feature Engineering
-
-- Feature Scaling
-- Feature Selection
-- Feature Creation
+---
 
 ---
 

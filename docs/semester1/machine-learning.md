@@ -12,9 +12,26 @@
 
 ---
 
----
+## 📖 Recommended Resources
 
-## � Notes Section
+??? info "�‍🏫 Recommended by Professor"
+    - *To be added later*
+
+??? info "�📚 Books"
+    - *To be added later*
+    - Pattern Recognition and Machine Learning - Christopher Bishop
+    - Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
+    - The Elements of Statistical Learning - Hastie, Tibshirani, Friedman
+
+??? info "🎥 Video Lectures"
+    - *To be added later*
+    - Andrew Ng's Machine Learning Course (Coursera)
+    - Stanford CS229: Machine Learning
+    - MIT 6.036: Introduction to Machine Learning
+
+??? info "📄 Research Papers"
+    - *To be added later*
+    - Key papers will be added as course progresses
 
 ---
 
@@ -23,11 +40,6 @@
 ### Week 1-2: ML Fundamentals and Regression
 *Add your notes here*
 
-### Week 3-4: Classification Algorithms
-*Add your notes here*
-
-### Week 5-6: Ensemble Methods and Unsupervised Learning
-*Add your notes here*
 
 ---
 
@@ -51,13 +63,6 @@
 
 ## 🎓 Assignments and Projects
 
-### Assignment 1: Regression Analysis
-*Details to be added*
-
-### Assignment 2: Classification Challenge
-*Details to be added*
-
-### Project: End-to-End ML Pipeline
 *Details to be added*
 
 ---

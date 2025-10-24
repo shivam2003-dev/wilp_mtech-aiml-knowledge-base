@@ -12,15 +12,32 @@
 
 ---
 
-## 📝 Notes Section
+## 📖 Recommended Resources
+
+??? info "�‍🏫 Recommended by Professor"
+    - *To be added later*
+
+??? info "�📚 Books"
+    - *To be added later*
+    - Introduction to Probability - Joseph K. Blitzstein, Jessica Hwang
+    - Statistical Inference - George Casella, Roger L. Berger
+    - All of Statistics - Larry Wasserman
+
+??? info "🎥 Video Lectures"
+    - *To be added later*
+    - MIT 18.650: Statistics for Applications
+    - Harvard STAT 110: Probability
+    - Khan Academy: Statistics and Probability
+
+??? info "📄 Research Papers"
+    - *To be added later*
+    - Foundational papers on statistical methods and inference
+
+---
+
+##  Notes Section
 
 ### Week 1-2: Probability Theory
-*Add your notes here*
-
-### Week 3-4: Statistical Distributions
-*Add your notes here*
-
-### Week 5-6: Hypothesis Testing and Inference
 *Add your notes here*
 
 ---
@@ -45,12 +62,6 @@
 ## 🎓 Assignments and Projects
 
 ### Assignment 1: Probability and Distributions
-*Details to be added*
-
-### Assignment 2: Hypothesis Testing
-*Details to be added*
-
-### Project: Statistical Analysis of Real-World Dataset
 *Details to be added*
 
 ---

@@ -12,15 +12,32 @@
 
 ---
 
-## 📝 Notes Section
+## 📖 Recommended Resources
+
+??? info "�‍🏫 Recommended by Professor"
+    - *To be added later*
+
+??? info "�📚 Books"
+    - *To be added later*
+    - Linear Algebra and Its Applications - Gilbert Strang
+    - Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+    - Convex Optimization - Stephen Boyd, Lieven Vandenberghe
+
+??? info "🎥 Video Lectures"
+    - *To be added later*
+    - MIT 18.06: Linear Algebra - Gilbert Strang
+    - Khan Academy: Multivariable Calculus
+    - 3Blue1Brown: Essence of Linear Algebra
+
+??? info "📄 Research Papers"
+    - *To be added later*
+    - Key papers on optimization algorithms and mathematical foundations
+
+---
+
+##  Notes Section
 
 ### Week 1-2: Linear Algebra Foundations
-*Add your notes here*
-
-### Week 3-4: Calculus and Gradients
-*Add your notes here*
-
-### Week 5-6: Optimization Methods
 *Add your notes here*
 
 ---
@@ -43,13 +60,6 @@
 
 ## 🎓 Assignments and Projects
 
-### Assignment 1: Matrix Operations
-*Details to be added*
-
-### Assignment 2: Gradient Descent Implementation
-*Details to be added*
-
-### Project: PCA from Scratch
 *Details to be added*
 
 ---

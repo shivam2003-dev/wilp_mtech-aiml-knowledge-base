@@ -50,13 +50,6 @@
 ### Sample Questions
 *To be added*
 
-??? info "⭐ Important Topics for Exam"
-    - Bayes' Theorem
-    - Hypothesis Testing
-    - Linear Regression
-    - ANOVA
-    - Statistical Distributions
-
 ---
 
 ## 🎓 Assignments and Projects

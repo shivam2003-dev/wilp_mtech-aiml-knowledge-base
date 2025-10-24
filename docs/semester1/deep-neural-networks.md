@@ -58,13 +58,6 @@
 ### Sample Questions
 *To be added*
 
-??? info "⭐ Important Topics for Exam"
-    - Backpropagation Algorithm
-    - Activation Functions
-    - CNN Architectures
-    - Regularization Techniques
-    - Optimization Algorithms
-
 ---
 
 ## 🎓 Assignments and Projects

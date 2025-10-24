@@ -51,13 +51,6 @@
 ### Sample Questions
 *To be added*
 
-??? info "⭐ Important Topics for Exam"
-    - Linear and Logistic Regression
-    - Decision Trees and Random Forest
-    - Support Vector Machines
-    - K-Means Clustering
-    - Model Evaluation Metrics
-    - Cross-Validation
 
 ---
 

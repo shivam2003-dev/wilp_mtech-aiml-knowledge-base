@@ -8,7 +8,7 @@
 
 ## 📚 Course Syllabus
 
-*Syllabus to be added later*
+📄 **[Download Course Handout (PDF)](docs/AIMLCZG565%20Machine%20Learning%20COURSE%20HANDOUT.docx.pdf)**
 
 ---
 
@@ -16,7 +16,21 @@
 ## 📖 Recommended Resources
 
 ??? info "👨‍🏫 Recommended by Professor"
-    - *To be added later*
+    **Textbooks:**
+    
+    - **Machine Learning** - Tom M. Mitchell (McGraw-Hill)  
+      📄 [Download PDF](docs/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)
+    
+    - **Pattern Recognition and Machine Learning** - Christopher M. Bishop (Springer)  
+      📄 [Download PDF](docs/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+    
+    - **Introduction to Data Mining** - P. Tan, M. Steinbach, V. Kumar (Pearson)  
+      📄 [Download PDF](docs/Pang-Ning_Tan_Michael_Steinbach_Vipin_Kumar_-_Introduction_to_Data_Mining-Pe_NRDK4fi.pdf)
+    
+    **Research Papers:**
+    
+    - **A Tutorial on Support Vector Machines for Pattern Recognition** - C.J.C. Burges (Kluwer Academic Publishers)  
+      📄 [Download PDF](docs/burges_svm.pdf)
 
 ??? info "🌐 Community Recommended"
     - *To be added later*

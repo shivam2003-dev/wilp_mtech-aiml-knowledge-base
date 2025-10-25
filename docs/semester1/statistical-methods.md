@@ -16,7 +16,18 @@
 ## 📖 Recommended Resources
 
 ??? info "👨‍🏫 Recommended by Professor"
-    - *To be added later*
+    **Core Textbooks:**
+    
+    - **Statistics for Data Scientists** - Maurits Kaptein, Edwin van den Heuvel (Springer, 2022)  
+      📄 [Download PDF](docs_stat/Statistics%20for%20Data%20Scientists%20-%20Maurits%20Kaptein_%20Edwin%20van%20denHeuvel.pdf)
+    
+    - **Probability and Statistics for Engineering and Sciences** (8th Edition) - Jay L. Devore (Cengage)  
+      📄 *PDF to be added*
+    
+    **Essential for Forecasting & Time Series Analysis:**
+    
+    - **Introduction to Time Series and Forecasting** (2nd Edition) - Peter J. Brockwell, Richard A. Davis (Springer)  
+      📄 *PDF to be added*
 
 ??? info "🌐 Community Recommended"
     - *To be added later*

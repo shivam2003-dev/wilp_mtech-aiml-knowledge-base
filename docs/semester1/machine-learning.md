@@ -53,10 +53,18 @@
 
 ---
 
+## 📊 Lecture Slides
+
+### Module 1: Introduction to Machine Learning
+📄 **[Download Slides (PDF)](docs/Cluster%20AIML%20-%20ML%20CS-1%20V1.0%20-%20For%20Student%20Reference.pptx.pdf)**
+
+*Week 1-2: ML Fundamentals and Regression*
+
+---
+
 ## 📝 Notes Section
 
-### Week 1-2: ML Fundamentals and Regression
-*Add your notes here*
+*Add your personal notes here as you progress through the course*
 
 
 ---

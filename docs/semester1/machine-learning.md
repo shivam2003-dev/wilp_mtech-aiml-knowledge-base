@@ -33,7 +33,9 @@
       📄 [Download PDF](docs/burges_svm.pdf)
 
 ??? info "🌐 Community Recommended"
-    - *To be added later*
+    - [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
+    - [Machine Learning Crash Course- google](https://developers.google.com/machine-learning/crash-course)
+    - 
 
 ??? info "📚 Books"
     - *To be added later*
@@ -42,7 +44,7 @@
     - [The Elements of Statistical Learning - Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ??? info "🎥 Video Lectures"
-    - *To be added later*
+    - [Stanford CS229: Machine Learning Full Course taught by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU )
     - [Andrew Ng's Machine Learning Course (Coursera)](https://www.coursera.org/learn/machine-learning)
     - [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
     - [MIT 6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)

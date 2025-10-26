@@ -55,6 +55,22 @@
 
 ---
 
+## 📝 Blogs & Good Reads
+
+### 🎯 Must-Read Paper Collections
+- 🌟 **[Must-Read Papers for ML/DL](https://github.com/hurshd0/must-read-papers-for-ml)** - Curated collection of essential papers for Data Science, Machine Learning and Deep Learning
+  - Topics: Neural Networks, CNNs, RNNs, GANs, Transformers, NLP, Computer Vision
+  - Includes foundational papers with reading priority rankings
+  - Community-driven with 1.3k+ stars
+
+### 📰 Blogs & Articles
+*Add your favorite ML blogs and articles here*
+
+### 🔗 Useful Links
+*Add other useful resources and links*
+
+---
+
 ## 📊 Lecture Slides
 
 ### Module 1: Introduction to Machine Learning

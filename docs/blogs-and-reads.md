@@ -9,11 +9,7 @@ Welcome to the curated collection of blogs, research papers, articles, and learn
 ### 📄 Research Papers & Collections
 
 ??? info "Machine Learning & Deep Learning Papers"
-    - 🌟 **[Must-Read Papers for ML/DL](https://github.com/hurshd0/must-read-papers-for-ml)** - Curated collection of essential papers
-      - Topics: Neural Networks, CNNs, RNNs, GANs, Transformers, NLP, Computer Vision
-      - Includes foundational papers with reading priority rankings (🥇🥈🥉)
-      - Community-driven with 1.3k+ stars
-    
+    - 🌟 **[Must-Read Papers for ML/DL](https://github.com/hurshd0/must-read-papers-for-ml)** - Curated collection of essential paper
     - **[Papers With Code](https://paperswithcode.com/)** - ML papers with code implementations
     - **[arXiv.org - ML Section](https://arxiv.org/list/cs.LG/recent)** - Latest ML research papers
     - **[Distill.pub](https://distill.pub/)** - Clear explanations of machine learning concepts

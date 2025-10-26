@@ -51,4 +51,35 @@ This semester covers several interconnected areas:
 
 ---
 
+## 📝 Blogs & Good Reads
+
+### 🎯 Must-Read Collections
+
+??? info "📄 Research Papers & Collections"
+    - 🌟 **[Must-Read Papers for ML/DL](https://github.com/hurshd0/must-read-papers-for-ml)** - Curated collection of essential papers
+      - Topics: Neural Networks, CNNs, RNNs, GANs, Transformers, NLP, Computer Vision
+      - Includes foundational papers with reading priority rankings (🥇🥈🥉)
+      - Community-driven with 1.3k+ stars
+    
+    *Add more paper collections as you discover them*
+
+??? info "📰 Blogs & Articles"
+    *Add your favorite ML/AI blogs and articles here*
+    
+    - Example categories:
+      - Technical deep-dives
+      - Industry insights
+      - Research updates
+      - Tutorials and guides
+
+??? info "🔗 Useful Resources & Links"
+    *Add other useful learning resources here*
+    
+    - Online courses
+    - Interactive tutorials
+    - Tools and frameworks
+    - Community forums
+
+---
+
 *Navigate to individual course pages to explore detailed content, notes, and resources.*

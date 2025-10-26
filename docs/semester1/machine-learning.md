@@ -34,8 +34,7 @@
 
 ??? info "🌐 Community Recommended"
     - [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
-    - [Machine Learning Crash Course- google](https://developers.google.com/machine-learning/crash-course)
-    - 
+    - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course) 
 
 ??? info "📚 Books"
     - *To be added later*
@@ -52,22 +51,6 @@
 ??? info "📄 Research Papers"
     - *To be added later*
     - [Key papers will be added as course progresses](#)
-
----
-
-## 📝 Blogs & Good Reads
-
-### 🎯 Must-Read Paper Collections
-- 🌟 **[Must-Read Papers for ML/DL](https://github.com/hurshd0/must-read-papers-for-ml)** - Curated collection of essential papers for Data Science, Machine Learning and Deep Learning
-  - Topics: Neural Networks, CNNs, RNNs, GANs, Transformers, NLP, Computer Vision
-  - Includes foundational papers with reading priority rankings
-  - Community-driven with 1.3k+ stars
-
-### 📰 Blogs & Articles
-*Add your favorite ML blogs and articles here*
-
-### 🔗 Useful Links
-*Add other useful resources and links*
 
 ---
 

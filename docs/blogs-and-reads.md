@@ -59,6 +59,17 @@ Welcome to the curated collection of blogs, research papers, articles, and learn
 
 ---
 
+## 📑 Topic-Specific Articles
+
+### 🎯 Machine Learning Core Concepts
+
+??? info "Gradient Descent & Optimization"
+    - **[Why Momentum Really Works](https://distill.pub/2017/momentum/)** - Distill.pub - Deep dive into momentum in gradient descent
+    - **[An Overview of Gradient Descent Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/)** - Sebastian Ruder
+    - **[Adam Optimizer Explained](https://optimization.cbe.cornell.edu/index.php?title=Adam)** - Cornell optimization guide
+
+---
+
 ## 🔗 Useful Resources & Links
 
 ### 📚 Online Courses & Tutorials

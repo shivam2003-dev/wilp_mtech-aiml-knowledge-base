@@ -97,6 +97,12 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
+  - mkdocs-jupyter:
+      include_source: true
+      execute: false
+      ignore_h1_titles: true
+      remove_code_cells: false
+      remove_empty_cells: false
 
 # Extra JavaScript
 extra_javascript:

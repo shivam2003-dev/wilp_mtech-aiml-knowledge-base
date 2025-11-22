@@ -101,8 +101,6 @@ plugins:
       include_source: true
       execute: false
       ignore_h1_titles: true
-      remove_code_cells: false
-      remove_empty_cells: false
 
 # Extra JavaScript
 extra_javascript:

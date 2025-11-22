@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#2e8555" opacity="0.1"/>
+  <path d="M300 400 L500 200 L700 400 Z" fill="#2e8555" stroke="#2e8555" stroke-width="2"/>
+  <text x="600" y="350" font-family="Arial" font-size="24" fill="#2e8555" text-anchor="middle">Mountain</text>
+</svg>

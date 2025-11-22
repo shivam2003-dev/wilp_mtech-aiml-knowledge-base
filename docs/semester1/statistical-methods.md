@@ -70,8 +70,31 @@
 ## 🎓 Assignments and Projects
 
 ### Assignment 1: Probability and Distributions
-*Details to be added*
+
+**Assignment PDF:** [Assignment-1.pdf](assignments/statistical-methods/assignment1/Assignment-1.pdf)
+
+This assignment covers fundamental statistical concepts including:
+
+1. **Q1: Temperature Statistics** - Statistical measures, skewness, and outlier detection
+   - 📓 [Notebook](assignments/statistical-methods/assignment1/Q1_Temperature_Statistics.ipynb)
+   
+2. **Q2: Probability - Students, Sports, and Grades** - Inclusion-exclusion principle with Venn diagram
+   - 📓 [Notebook](assignments/statistical-methods/assignment1/Q2_Probability_Students.ipynb)
+   
+3. **Q3: Naive Bayes Classifier** - Depression prediction using Naive Bayes
+   - 📓 [Notebook](assignments/statistical-methods/assignment1/Q3_Naive_Bayes_Depression.ipynb)
+   
+4. **Q4: Bayes' Theorem** - Conditional probability application
+   - 📓 [Notebook](assignments/statistical-methods/assignment1/Q4_Bayes_Theorem.ipynb)
+
+**Mathematical Solutions:** [Mathematical_Solutions.md](assignments/statistical-methods/assignment1/Mathematical_Solutions.md)
+
+All solutions include:
+- ✅ Step-by-step Python implementations
+- ✅ Detailed mathematical derivations
+- ✅ Visualizations and data analysis
+- ✅ Complete code with explanations
 
 ---
 
-*Last Updated: October 2025*
+*Last Updated: November 2025*

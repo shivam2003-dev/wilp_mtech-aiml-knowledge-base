@@ -18,7 +18,12 @@ semester1/
 │       └── (ISM assignments will be here)
 └── statistical-methods/
     └── assignment1/
-        └── (Statistical methods assignments)
+        ├── Assignment-1.pdf
+        ├── Q1_Temperature_Statistics.ipynb
+        ├── Q2_Probability_Students.ipynb
+        ├── Q3_Naive_Bayes_Depression.ipynb
+        ├── Q4_Bayes_Theorem.ipynb
+        └── (HTML outputs included)
 ```
 
 ## Machine Learning Assignment 1
@@ -38,4 +43,22 @@ semester1/
 ```bash
 curl -L "https://raw.githubusercontent.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/main/semester1/machine-learning/assignment1/ML_Assignment_1_Solution.ipynb" -o ML_Assignment_1_Solution.ipynb
 ```
+
+## Statistical Methods Assignment 1
+
+**Location:** `statistical-methods/assignment1/`
+
+**Files:**
+- `Assignment-1.pdf` - Assignment PDF
+- `Q1_Temperature_Statistics.ipynb` - Question 1 solution
+- `Q2_Probability_Students.ipynb` - Question 2 solution
+- `Q3_Naive_Bayes_Depression.ipynb` - Question 3 solution
+- `Q4_Bayes_Theorem.ipynb` - Question 4 solution
+- HTML outputs for each question
+
+## ISM Assignment 1
+
+**Location:** `ism/assignment1/`
+
+**Status:** Ready for ISM assignment files
 

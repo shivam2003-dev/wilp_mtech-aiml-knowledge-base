@@ -76,22 +76,22 @@
 This assignment covers fundamental statistical concepts including:
 
 1. **Q1: Temperature Statistics** - Statistical measures, skewness, and outlier detection
-   - 📄 [View Solution (HTML)](assignments/statistical-methods/assignment1/Q1_Temperature_Statistics.html)
+   - 📄 [View Solution (HTML)](https://shivam2003-dev.github.io/wilp_mtech-aiml-knowledge-base/semester1/assignments/statistical-methods/assignment1/Q1_Temperature_Statistics.html)
    - 📓 [Download Notebook (.ipynb)](https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/raw/main/docs/semester1/assignments/statistical-methods/assignment1/Q1_Temperature_Statistics.ipynb)
    
 2. **Q2: Probability - Students, Sports, and Grades** - Inclusion-exclusion principle with Venn diagram
-   - 📄 [View Solution (HTML)](assignments/statistical-methods/assignment1/Q2_Probability_Students.html)
+   - 📄 [View Solution (HTML)](https://shivam2003-dev.github.io/wilp_mtech-aiml-knowledge-base/semester1/assignments/statistical-methods/assignment1/Q2_Probability_Students.html)
    - 📓 [Download Notebook (.ipynb)](https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/raw/main/docs/semester1/assignments/statistical-methods/assignment1/Q2_Probability_Students.ipynb)
    
 3. **Q3: Naive Bayes Classifier** - Depression prediction using Naive Bayes
-   - 📄 [View Solution (HTML)](assignments/statistical-methods/assignment1/Q3_Naive_Bayes_Depression.html)
+   - 📄 [View Solution (HTML)](https://shivam2003-dev.github.io/wilp_mtech-aiml-knowledge-base/semester1/assignments/statistical-methods/assignment1/Q3_Naive_Bayes_Depression.html)
    - 📓 [Download Notebook (.ipynb)](https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/raw/main/docs/semester1/assignments/statistical-methods/assignment1/Q3_Naive_Bayes_Depression.ipynb)
    
 4. **Q4: Bayes' Theorem** - Conditional probability application
-   - 📄 [View Solution (HTML)](assignments/statistical-methods/assignment1/Q4_Bayes_Theorem.html)
+   - 📄 [View Solution (HTML)](https://shivam2003-dev.github.io/wilp_mtech-aiml-knowledge-base/semester1/assignments/statistical-methods/assignment1/Q4_Bayes_Theorem.html)
    - 📓 [Download Notebook (.ipynb)](https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/raw/main/docs/semester1/assignments/statistical-methods/assignment1/Q4_Bayes_Theorem.ipynb)
 
-**Mathematical Solutions:** [Mathematical_Solutions.md](assignments/statistical-methods/assignment1/Mathematical_Solutions.md)
+**Mathematical Solutions:** [View on GitHub](https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/raw/main/static/assignments/Mathematical_Solutions.md)
 
 All solutions include:
 - ✅ Step-by-step Python implementations

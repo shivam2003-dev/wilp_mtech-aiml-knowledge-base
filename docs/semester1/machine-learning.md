@@ -15,7 +15,7 @@
 
 ## 📖 Recommended Resources
 
-??? info "👨‍🏫 Recommended by Professor"
+:::info "👨‍🏫 Recommended by Professor"
     **Textbooks:**
     
     - **Machine Learning** - Tom M. Mitchell (McGraw-Hill)  
@@ -32,23 +32,23 @@
     - **A Tutorial on Support Vector Machines for Pattern Recognition** - C.J.C. Burges (Kluwer Academic Publishers)  
       📄 [Download PDF](docs/burges_svm.pdf)
 
-??? info "🌐 Community Recommended"
+:::info "🌐 Community Recommended"
     - [10-701: Introduction to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/)
     - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course) 
 
-??? info "📚 Books"
+:::info "📚 Books"
     - *To be added later*
     - [Pattern Recognition and Machine Learning - Christopher Bishop](https://www.springer.com/gp/book/9780387310732)
     - [Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
     - [The Elements of Statistical Learning - Hastie, Tibshirani, Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-??? info "🎥 Video Lectures"
+:::info "🎥 Video Lectures"
     - [Stanford CS229: Machine Learning Full Course taught by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU )
     - [Andrew Ng's Machine Learning Course (Coursera)](https://www.coursera.org/learn/machine-learning)
     - [Stanford CS229: Machine Learning](https://see.stanford.edu/Course/CS229)
     - [MIT 6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
 
-??? info "📄 Research Papers"
+:::info "📄 Research Papers"
     - *To be added later*
     - [Key papers will be added as course progresses](#)
 

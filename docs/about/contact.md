@@ -55,7 +55,7 @@ Grade: 8.17/10
 
 ### 💼 Technical Skills
 
-??? info "🛠️ View Skills"
+:::info "🛠️ View Skills"
     ```
     Cloud Platforms:        AWS (EKS, EC2, S3, VPC, SNS, Lambda, EventBridge, CloudWatch, WAF, Inspector)
                             Azure, GCP

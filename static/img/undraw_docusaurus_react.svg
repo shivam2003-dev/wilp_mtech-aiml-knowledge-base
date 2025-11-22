@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#2e8555" opacity="0.1"/>
+  <circle cx="400" cy="300" r="60" fill="#2e8555"/>
+  <circle cx="600" cy="300" r="60" fill="#2e8555"/>
+  <circle cx="800" cy="300" r="60" fill="#2e8555"/>
+  <text x="600" y="450" font-family="Arial" font-size="24" fill="#2e8555" text-anchor="middle">React</text>
+</svg>

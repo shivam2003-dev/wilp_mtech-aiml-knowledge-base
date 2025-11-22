@@ -133,6 +133,10 @@ dmypy.json
 # MkDocs
 site/
 
+# Docusaurus
+.docusaurus/
+build/
+
 # Temporary files
 *.tmp
 *.bak

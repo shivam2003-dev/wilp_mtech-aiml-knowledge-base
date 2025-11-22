@@ -15,25 +15,25 @@
 
 ## 📖 Recommended Resources
 
-??? info "👨‍🏫 Recommended by Professor"
+:::info "👨‍🏫 Recommended by Professor"
     - *To be added later*
 
-??? info "🌐 Community Recommended"
+:::info "🌐 Community Recommended"
     - *To be added later*
 
-??? info "📚 Books"
+:::info "📚 Books"
     - *To be added later*
     - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
     - [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
     - [Dive into Deep Learning - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola](https://d2l.ai/)
 
-??? info "🎥 Video Lectures"
+:::info "🎥 Video Lectures"
     - *To be added later*
     - [Stanford CS230: Deep Learning](https://cs230.stanford.edu/)
     - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
     - [Fast.ai Deep Learning Course](https://course.fast.ai/)
 
-??? info "📄 Research Papers"
+:::info "📄 Research Papers"
     - *To be added later*
     - [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
     - [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)

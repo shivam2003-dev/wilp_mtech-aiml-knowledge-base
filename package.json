@@ -1,0 +1,42 @@
+{
+  "name": "wilp_mtech-aiml-knowledge-base",
+  "version": "1.0.0",
+  "description": "[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://www.mkdocs.org/) [![Material Theme](https://img.shields.io/badge/Material-for%20MkDocs-blue?style=for-the-badge)](https://squidfunk.github.io/mkdocs-material/) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base/issues"
+  },
+  "homepage": "https://github.com/shivam2003-dev/wilp_mtech-aiml-knowledge-base#readme",
+  "devDependencies": {
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "@docusaurus/theme-classic": "^3.9.2"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "prism-react-renderer": "^2.4.1",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
+  }
+}
